@@ -7,6 +7,7 @@ BCD_tb.v</p>
 </p>
 Practica PWM </p>
 Durante esta practica se trabajo con el concepto de PWM, en donde se tomaba en cuenta el duty cycle de un servo motor para poder manipular su posicion especifica con dos botones que significaran un incremento y un decremento </p>
+</p>
 PWM.v</p>
 PWM_clock_divider.v</p>
 PWM_tb.v</p>
