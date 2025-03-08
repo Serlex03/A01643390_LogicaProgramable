@@ -12,3 +12,23 @@ PWM.v</p>
 PWM_clock_divider.v</p>
 PWM_tb.v</p>
 </p>
+</p>
+Practica Counter </p>
+El objetivo de esta practica era el de generar un contador de un display, con el cual pudieras decidir entra contar hacia arriba o hacia abajo. Ademas, esta la opcion de ponerle con los switches un numero en binario y desde ahi continuar con la cuenta en cualquier sentido </p>
+</p>
+counter.v</p>
+counter_BCD_counter.v</p>
+counter_clock_divider.v</p>
+counter_contador_1display.sv</p>
+counter_count_load.sv</p>
+counter_tb.sv</p>
+</p>
+</p>
+Challenge Frecuenciometro </p>
+Para este desafio, debiamos generar un frecuenciometro que fuera capaz de medir los pulsos de una entrada y mostrar cuantos pulsos sobre segundos estaba generando la señal de entrada </p>
+</p>
+frecuenciometro.v</p>
+frecuenciometro_wr.v</p>
+freq_decoder.v</p>
+</p>
+</p>
