@@ -32,3 +32,12 @@ frecuenciometro_wr.v</p>
 freq_decoder.v</p>
 </p>
 </p>
+Password</p>
+Con esta practica se consigio que la FPGA tuviera una maquina de estados en donde era necesario el ingresar una contraseña numerica de 4 digitos en donde cualquier error mostraba el mensaje en el display, pero al ingresar correctamente la contraseña muestra "done"</p>
+</p>
+password.v</p>
+password_wr.v</p>
+password_clock_divider.v</p>
+password_one_shot.v</p>
+password_tb.v</p>
+</p>
