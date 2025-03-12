@@ -41,3 +41,20 @@ password_clock_divider.v</p>
 password_one_shot.v</p>
 password_tb.v</p>
 </p>
+</p>
+Examen 1 FSM Sum</p>
+El primer ejercicio del examen fu de ingresar un numero en binario de 4 bits, con 4 switches y en el siplay mostrar la suma de todos los numeros previos al ingresado</p>
+</p>
+light_clock_signal.v</p>
+light_clock_divider.v</p>
+light_clock_divider_tb.v</p>
+</p>
+</p>
+Examen 2 Light control</p>
+EL segundo ejercicio del examen buscaba simular el comportamiento de un semaforo, pero con la diferencia de que el usuario pudiera ingresar cuanto tiempo va a tardar en cambiar las señales de flecha, verde, amarillo y rojo</p>
+</p>
+sum.v</p>
+sum_decoder.v</p>
+sum_tb.v</p>
+</p>
+
