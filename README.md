@@ -57,4 +57,8 @@ sum.v</p>
 sum_decoder.v</p>
 sum_tb.v</p>
 </p>
-
+Brazo Robotico</p>
+Como proyecto final, logramos que un brazo robotico de 4 servomotores con una memoria ROM o un acelerometro y mostrando las cordenadas en un VGA</p>
+</p>
+Brazo_robot.zip</p>
+</p>
